@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: Security_OAuth
+    
+    
+    
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Ov23li5rbwcZ0YR9cmrV
+            clientSecret: 2d21da133e5e276003986549cb30230ceb5df22a
+
+    
+    
+
+          
